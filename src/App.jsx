@@ -234,8 +234,8 @@ const styles = {
 };
 
 const NameMatchingApp = () => {
-  const [name1, setName1] = useState("Robert Johnson");
-  const [name2, setName2] = useState("Bob Johnson");
+  const [name1, setName1] = useState("Sourav Kumar Singh");
+  const [name2, setName2] = useState("Kr Saurabh Singh");
   const [threshold, setThreshold] = useState(0.7);
   const [soundexThreshold, setSoundexThreshold] = useState(0.7);
   const [results, setResults] = useState(null);
