@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { ArrowRight, Check, X } from "lucide-react";
+import './App.css'
+
 
 // CSS-in-JS styles
 const styles = {
